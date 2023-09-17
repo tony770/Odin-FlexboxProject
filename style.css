@@ -44,7 +44,7 @@ a {
     justify-content: center;
     background-color: #1F2937;
     padding: 8px;
-    overflow-y: hidden;
+    flex-wrap: wrap;
 }
 
 .hero-body {
@@ -98,8 +98,8 @@ button:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    overflow-y: hidden;
     padding: 52px 24px;
+    flex-wrap: wrap;
 }
 
 .body-image {
